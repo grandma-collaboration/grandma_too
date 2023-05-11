@@ -1,0 +1,4 @@
+gwemopt==0.0.84
+humanize
+lxml
+voevent-parse
